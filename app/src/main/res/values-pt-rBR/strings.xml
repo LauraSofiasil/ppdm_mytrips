@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">Minhas Viagens</string>
+<string name="login">Acessar</string>
+<string name="please">Por favor, acesse para continuar.</string>
+<string name="email">E-mail</string>
+<string name="password">Senha</string>
+<string name="sign">Entrar</string>
+<string name="account">Não tem uma conta?</string>
+<string name="signup">Cadastre-se</string>
+</resources>
